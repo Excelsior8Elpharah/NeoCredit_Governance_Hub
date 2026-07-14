@@ -1,0 +1,8 @@
+{
+  "name": "Remix: NeoCredit Governance Hub",
+  "description": "Painel interativo de governança de TI, conformidade regulatória (LGPD \u0026 BACEN) e gestão de riscos para o NeoCredit, integrando frameworks COBIT, ITIL 4 e ISO 27001.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
